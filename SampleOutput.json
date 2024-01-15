@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Umpire controversy explodes at World Cup",
+      "description": "South Africa survived a late charge from Pakistan to pull off a thrilling one-wicket win and move closer to the semi-finals of the Cricket World Cup.",
+      "url": "https://www.news.com.au/sport/cricket/pakistan-cruelly-denied-win-over-south-africa-by-umpires-drs-decision/news-story/fe9bb04d2e7c6fad34ddb7f5af177018",
+      "urlToImage": "https://content.api.news/v3/images/bin/0c6e75809bfe7819a7146774550f3245",
+      "publishedAt": "2023-10-27T19:55:00Z",
+      "content": "South Africa survived a late charge from Pakistan to pull off a thrilling one-wicket win and move closer to the semi-finals of the Cricket World Cup.\r\nAiden Markram hit a solid 91 and at 206-4 South … [+2607 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "'Lord's all over again!' - Rizwan and the stumping that wasn't",
+      "description": "Rizwan sends reminders of Jonny Bairstow's stumping at Lord's by running Markram out but not appealing during Pakistan's Cricket World Cup match against South Africa.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/67240806",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15D82/production/_131547498_p0gp7bjl.jpg",
+      "publishedAt": "2023-10-27T15:37:26.1111936Z",
+      "content": "Rizwan sends reminders of Jonny Bairstow's stumping at Lord's by running Markram out but not appealing during Pakistan's Cricket World Cup match against South Africa.\r\nFOLLOW LIVE: Pakistan v South A… [+33 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
